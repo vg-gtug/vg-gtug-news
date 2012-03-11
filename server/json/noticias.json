@@ -1,0 +1,19 @@
+{
+	"noticias" : [
+		{"noticia" : {
+			"titulo" : "Prueba Titulo 1",
+			"cuerpo" : "Prueba Cuerpo 1",
+			"autor" : "Prueba Autor 1",
+			"fecha" : "7/3/2012",
+			"url" : "http://vg.gtugs.org/"
+		}},
+		{"noticia" : {
+			"titulo" : "11 de Noviembre: 1º Evento de VG-GTUG",
+			"cuerpo" : "El próximo 11 de noviembre tendrá lugar el primer evento de Vitoria Gasteiz GTUG. El propósito de esta primera reunión es realizar una toma de contacto, para conocernos y poner en común que interesa a la mayoría para poder enfocar o planificar los siguientes talleres, eventos, charlas, etc. que se realizarán a lo largo del año.\nFecha y Hora: 11 de  Noviembre a las 19:00\nLugar:  Puerta del aulario de la UPV de Vitoria\n¡Te esperamos!",
+			"autor" : "Xabier Ursua",
+			"fecha" : "26/10/2011",
+			"url" : "http://vg.gtugs.org/home/noticias/11denoviembre1oeventodevg-gtug"
+		}
+	}
+	]
+}
