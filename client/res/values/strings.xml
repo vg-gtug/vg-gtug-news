@@ -2,4 +2,5 @@
 <resources>
     <string name="hello">Hello World, News!</string>
     <string name="app_name">VG GTUG News</string>
+    <string name="noticia">Noticia</string>
 </resources>

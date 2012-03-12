@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/titulo"
+    android:background="@drawable/back"
+    />
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/fecha"
+    android:background="@drawable/back"
+    />
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/autor"
+    android:background="@drawable/back"
+    />
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/cuerpo"
+    android:background="@drawable/back"
+    />
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/url"
+    android:background="@drawable/back"
+    />
+	<Button android:text="Volver"
+        android:id="@+id/volverNew"
+        android:layout_width="250px"
+            android:textSize="18px"
+        android:layout_height="55px">
+    </Button> 
+</LinearLayout>

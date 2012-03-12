@@ -9,4 +9,16 @@
     android:layout_height="wrap_content" 
     android:text="@string/hello"
     />
+
+<ListView
+    android:id="@+id/listNoticias"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+</ListView>
+<Button android:text="Salir"
+        android:id="@+id/salirMain"
+        android:layout_width="250px"
+            android:textSize="18px"
+        android:layout_height="55px">
+    </Button> 
 </LinearLayout>
